@@ -2041,7 +2041,7 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #004B73;
-			border-color: #595959;
+			border-color: #004B73;
 			content: '\f00c';
 			color: #ffffff;
 		}
@@ -3380,7 +3380,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("https://github.com/eekevall/website/blob/main/images/banner.png");
+		background-image: url("images/banner.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
