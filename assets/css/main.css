@@ -160,11 +160,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #595959 !important;
+			color: #898989 !important;
 		}
 
 		a:active {
-			color: #898989 !important;
+			color: #777E87 !important;
 		}
 
 	strong, b {
@@ -3709,6 +3709,7 @@ input, select, textarea {
 
 	#footer .copyright {
 		font-size: 0.8em;
+		color: #000000;
 		list-style: none;
 		padding-left: 0;
 	}
