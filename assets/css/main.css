@@ -2839,11 +2839,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #5F9ED1;
+				background-color: #FF800F;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #FF800F;
+				background-color: #5F9ED1;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
