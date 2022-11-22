@@ -3144,8 +3144,8 @@ input, select, textarea {
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				background-color: #ffffff;
-				color: #000000;
+				background-color: #000000;
+				color: #ffffff;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3153,11 +3153,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #898989;
+				background-color: #006BA4
 			}
 
 			#header .logo:active strong {
-				background-color: #898989;
+				background-color: #006BA4;
 			}
 
 		#header nav {
