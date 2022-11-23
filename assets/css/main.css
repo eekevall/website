@@ -2938,7 +2938,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color:rgba(95, 158, 209, 0.5);
+			background-color:rgba(0, 107, 164, 0.5);
 		}
 
 			.spotlights > section > .image {
@@ -3000,6 +3000,36 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
+				background-color: #C85201;
+			}
+
+				.spotlights > section:nth-child(2n) > .content {
+					-moz-align-items: -moz-flex-end;
+					-webkit-align-items: -webkit-flex-end;
+					-ms-align-items: -ms-flex-end;
+					align-items: flex-end;
+				}
+
+			.spotlights > section:nth-child(3n) {
+				-moz-flex-direction: row-reverse;
+				-webkit-flex-direction: row-reverse;
+				-ms-flex-direction: row-reverse;
+				flex-direction: row-reverse;
+				background-color: #FF800F;
+			}
+	
+				.spotlights > section:nth-child(2n) > .content {
+					-moz-align-items: -moz-flex-end;
+					-webkit-align-items: -webkit-flex-end;
+					-ms-align-items: -ms-flex-end;
+					align-items: flex-end;
+				}
+
+			.spotlights > section:nth-child(2n) {
+				-moz-flex-direction: row-reverse;
+				-webkit-flex-direction: row-reverse;
+				-ms-flex-direction: row-reverse;
+				flex-direction: row-reverse;
 				background-color: #FFBC79;
 			}
 
@@ -3009,6 +3039,10 @@ input, select, textarea {
 					-ms-align-items: -ms-flex-end;
 					align-items: flex-end;
 				}
+	
+
+
+
 
 		@media screen and (max-width: 1680px) {
 
