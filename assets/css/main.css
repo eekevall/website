@@ -3441,7 +3441,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("");
+		background-image: url("https://github.com/eekevall/website/blob/main/images/Profile_image.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3556,7 +3556,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #006BA4;
+			background-color: rgba(0, 107, 164, 0.1);
 		}
 
 		#banner.style3:after {
