@@ -3011,10 +3011,10 @@ input, select, textarea {
 				}
 
 			.spotlights > section:nth-child(3n) {
-				-moz-flex-direction: row-reverse;
-				-webkit-flex-direction: row-reverse;
-				-ms-flex-direction: row-reverse;
-				flex-direction: row-reverse;
+				-moz-flex-direction: row;
+				-webkit-flex-direction: row;
+				-ms-flex-direction: row;
+				flex-direction: row;
 				background-color: rgba(95, 158, 209, 0.75);
 			}
 	
@@ -3041,10 +3041,10 @@ input, select, textarea {
 				}
 
 			.spotlights > section:nth-child(5n) {
-				-moz-flex-direction: row-reverse;
-				-webkit-flex-direction: row-reverse;
-				-ms-flex-direction: row-reverse;
-				flex-direction: row-reverse;
+				-moz-flex-direction: row;
+				-webkit-flex-direction: row;
+				-ms-flex-direction: row;
+				flex-direction: row;
 				background-color: rgba(162, 200, 236, 0.75);
 			}
 
