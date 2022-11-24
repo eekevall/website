@@ -3455,7 +3455,7 @@ input, select, textarea {
 		cursor: default;
 		height: 50vh;
 		margin-bottom: -3.25em;
-		max-height: 32em;
+		max-height: 27em;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
@@ -3484,7 +3484,7 @@ input, select, textarea {
 		}
 
 		#banner h1 {
-			font-size: 3.25em;
+			font-size: 3.0 em;
 		}
 
 		#banner > .inner {
