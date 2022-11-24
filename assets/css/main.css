@@ -3324,7 +3324,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #006BA4;
+				color: #FCFCFC;
 			}
 
 			#header.alt.style3 .logo strong {
@@ -3471,7 +3471,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: rgba(240, 240, 255, 0.205);
+			background-color: rgba(252, 252, 252, 0.5);
 			content: '';
 			display: block;
 			height: 100%;
