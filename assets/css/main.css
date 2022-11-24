@@ -3441,7 +3441,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("https://github.com/eekevall/website/blob/main/images/Profile_image.png");
+		background-image: url("");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
