@@ -3000,7 +3000,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #C85201;
+				background-color: rgba(255, 128, 15, 0.5);
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3015,33 +3015,60 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #FF800F;
+				background-color: rgba(162, 200, 236, 0.5);
 			}
 	
-				.spotlights > section:nth-child(2n) > .content {
+				.spotlights > section:nth-child(3n) > .content {
 					-moz-align-items: -moz-flex-end;
 					-webkit-align-items: -webkit-flex-end;
 					-ms-align-items: -ms-flex-end;
 					align-items: flex-end;
 				}
 
-			.spotlights > section:nth-child(2n) {
+			.spotlights > section:nth-child(4n) {
 				-moz-flex-direction: row-reverse;
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #FFBC79;
+				background-color: rgba(95, 158, 209, 0.5);
 			}
 
-				.spotlights > section:nth-child(2n) > .content {
+				.spotlights > section:nth-child(4n) > .content {
 					-moz-align-items: -moz-flex-end;
 					-webkit-align-items: -webkit-flex-end;
 					-ms-align-items: -ms-flex-end;
 					align-items: flex-end;
 				}
-	
 
+			.spotlights > section:nth-child(5n) {
+				-moz-flex-direction: row-reverse;
+				-webkit-flex-direction: row-reverse;
+				-ms-flex-direction: row-reverse;
+				flex-direction: row-reverse;
+				background-color: rgba(200, 82, 1, 0.5);
+			}
 
+				.spotlights > section:nth-child(5n) > .content {
+					-moz-align-items: -moz-flex-end;
+					-webkit-align-items: -webkit-flex-end;
+					-ms-align-items: -ms-flex-end;
+					align-items: flex-end;
+				}
+
+			.spotlights > section:nth-child(6n) {
+				-moz-flex-direction: row-reverse;
+				-webkit-flex-direction: row-reverse;
+				-ms-flex-direction: row-reverse;
+				flex-direction: row-reverse;
+				background-color: rgba(255, 188, 121, 0.5);
+			}
+
+				.spotlights > section:nth-child(6n) > .content {
+					-moz-align-items: -moz-flex-end;
+					-webkit-align-items: -webkit-flex-end;
+					-ms-align-items: -ms-flex-end;
+					align-items: flex-end;
+				}
 
 
 		@media screen and (max-width: 1680px) {
