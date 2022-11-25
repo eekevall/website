@@ -3206,7 +3206,7 @@ input, select, textarea {
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #000000;
-				color: #ffffff;
+				color: rgba(95, 158, 209, 0.411);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3453,7 +3453,7 @@ input, select, textarea {
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 50vh;
+		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 27em;
 		min-height: 22em;
