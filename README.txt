@@ -1,4 +1,6 @@
-**I designed this personal website using the Forty by HTML5 UP template**
+# My Website
+
+## I designed the website using the Forty by HTML5 UP template**
 
 
 Forty by HTML5 UP
